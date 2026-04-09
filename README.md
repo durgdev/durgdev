@@ -1,16 +1,51 @@
-## Hi there 👋
+## 💫 About Me:
 
-<!--
-**durgdev/durgdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀  MERN Stack Learner | Problem Solver  
+💻 Building dynamic and scalable web applications with clean code  
+🌱 Currently learning and improving in Full Stack Development  
+🔥 Passionate about creating real-world projects  
+🎯 Goal: Become a skilled Full Stack Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+
+<a href="https://instagram.com/durgesh6348yadav" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/durgeshy" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+---
+
+## 💻 Tech Stack:
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats:
+
+![Durgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=durgdev&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgdev&theme=tokyonight)
+
+---
+
+## 🚀 Projects:
+
+🍔 **Vingo** – Full Stack Food Delivery App (MERN, Authentication, Payments)  
+📚 **Book Review Website** – Rating system using HTML, CSS, JavaScript  
+
+---
+
+## ✍️ Random Dev Quote:
+
+> "Consistency is the key to becoming a great developer."
