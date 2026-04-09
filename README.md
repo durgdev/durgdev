@@ -1,4 +1,3 @@
-**👋 Hi, I'm Durgesh Yadav**
 ## 💫 About Me:
 
 🚀  MERN Stack Learner | Problem Solver  
