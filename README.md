@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 
-<a href="https://instagram.com/durgesh6348yadav" target="_blank">
+<a href="https://instagram.com/durgeshyadav_8" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/durgeshy" target="_blank">
