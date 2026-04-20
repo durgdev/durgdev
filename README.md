@@ -58,4 +58,4 @@
 
 ## ✍️ Random Dev Quote:
 
-> "Consistency beats talent when talent doesn’t stay consistent."
+> "Solving real-world problems through clean, scalable, and efficient code."
