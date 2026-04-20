@@ -56,6 +56,6 @@
 
 ---
 
-## ✍️ Random Dev Quote:
+## ✍️ Dev Quote:
 
 > "Solving real-world problems through clean, scalable, and efficient code."
