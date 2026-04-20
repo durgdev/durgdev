@@ -1,10 +1,11 @@
 ## 💫 About Me:
 
-🚀  MERN Stack Learner | Problem Solver  
-💻 Building dynamic and scalable web applications with clean code  
-🌱 Currently learning and improving in Full Stack Development  
-🔥 Passionate about creating real-world projects  
-🎯 Goal: Become a skilled Full Stack Developer  
+🚀 Full Stack Developer (MERN) | Problem Solver  
+💻 Building scalable and production-ready web applications  
+⚡ Solved 600+ DSA problems across platforms  
+🔐 Skilled in JWT Authentication, REST APIs & backend architecture  
+🌱 Continuously improving in Full Stack Development & System Design  
+🎯 Goal: Crack top tech roles & build impactful real-world products  
 
 ---
 
@@ -31,14 +32,30 @@
 
 ---
 
-
 ## 🚀 Projects:
 
-🍔 **Vingo** – Full Stack Food Delivery App (MERN, Authentication, Payments)  
-📚 **Book Review Website** – Rating system using HTML, CSS, JavaScript  
+🍔 **Vingo — Full Stack Food Delivery Platform**  
+• Built using MERN Stack (React, Node.js, MongoDB)  
+• Implemented JWT authentication & OTP-based login system  
+• Role-based admin dashboard for managing users, orders & inventory  
+• Integrated payment system for secure transactions  
+• Fully responsive UI with clean user experience  
+
+📚 **Book Review Platform**  
+• Built using React & Tailwind CSS  
+• Implemented rating & filtering system  
+• Responsive UI with clean design  
+
+---
+
+## 📊 GitHub Stats:
+
+![Durgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=durgdev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durgdev&layout=compact&theme=tokyonight)
 
 ---
 
 ## ✍️ Random Dev Quote:
 
-> "Consistency is the key to becoming a great developer."
+> "Consistency beats talent when talent doesn’t stay consistent."
